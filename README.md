@@ -70,7 +70,7 @@ Contributing
 Feel free to fork this repository, open issues, or submit pull requests!
 
 
-### ✅ How to Upload to GitHub:
+### How to Upload to GitHub:
 
 1. **Extract** your `faceRecognition.zip`.
 2. **Copy** the `README.md` into that folder.
